@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on [YouTube Tutorials](https://www.youtube.com/@Omar-JibrilDev/videos)
+- 🔭 I’m currently working on [YouTube Tutorials](https://www.youtube.com/@Omar-Tood/videos)
 
 - 🌱 I’m currently learning *Node & express, reactjs and flutter*
 
