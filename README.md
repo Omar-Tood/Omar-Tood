@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Omar jibril Abdulkadir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer+@HilaalTech;Computer+Science+Student+@JUST;Competitive+Programmer+@IEEE+Region8;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer+@XaliyeTech;Computer+Science+Student+@JUST;Competitive+Programmer+@LetCode;Always+learning+new+things"></a>
 </p>
 
 
