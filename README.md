@@ -1,3 +1,10 @@
+<pre>  ___                         _____               _ 
+ / _ \ _ __ ___   __ _ _ __  |_   _|__   ___   __| |
+| | | | &apos;_ ` _ \ / _` | &apos;__|   | |/ _ \ / _ \ / _` |
+| |_| | | | | | | (_| | |      | | (_) | (_) | (_| |
+ \___/|_| |_| |_|\__,_|_|      |_|\___/ \___/ \__,_|
+</pre>
+
 # Hello there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Omar-Tood.Omar-Tood)
@@ -11,8 +18,8 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "omar Tood"
-        self.role = "Software Engineer"
+        self.name = "Omar Tood"
+        self.role = "FullStack developer🚀"
         self.language_spoken = ["Somalia", "en_US"]
 
     def say_hi(self):
